@@ -1,0 +1,27 @@
+{
+  "miniprogramRoot": "unpackage/dist/dev/mp-weixin/",
+  "srcMiniprogramRoot": "unpackage/dist/dev/mp-weixin/",
+  "appid": "wx525f7b64526032d3",
+  "projectname": "keruyun_uniapp",
+  "compileType": "miniprogram",
+  "libVersion": "3.0.0",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "setting": {
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "condition": false,
+    "minified": true
+  },
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "simulatorPluginLibVersion": {}
+}
